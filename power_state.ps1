@@ -1,5 +1,5 @@
 #malinda Rathnayake WCA 2019
-#
+#TEST
 #
 $WSLocalDir = "C:\_Scripts"
 $WorkingDir = (new-item -path "$WSLocalDir\PatchManagement\" -itemtype directory -force).Name
