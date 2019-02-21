@@ -1,3 +1,6 @@
+#malinda Rathnayake WCA 2019
+#
+#
 $WSLocalDir = "C:\_Scripts"
 $WorkingDir = (new-item -path "$WSLocalDir\PatchManagement\" -itemtype directory -force).Name
 $taskname = "DisableSleep"
